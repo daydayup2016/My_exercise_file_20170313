@@ -1,0 +1,216 @@
+2017-01-06 13:45:12,282 - test4.py --> line:21 - DEBUG - debug
+2017-01-06 13:45:12,282 - test4.py --> line:22 - INFO - info
+2017-01-06 13:45:12,282 - test4.py --> line:23 - WARNING - warning
+2017-01-06 13:45:12,282 - test4.py --> line:24 - ERROR - error
+2017-01-06 13:45:12,282 - test4.py --> line:25 - CRITICAL - critical
+2017-01-06 13:45:12,282 - test4.py --> line:28 - INFO - xxxxxxxxxxxxx
+2017-01-06 13:45:12,282 - test4.py --> line:36 - INFO - ================= @ 0 ====================
+2017-01-06 13:45:12,282 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-12,number:0
+2017-01-06 13:45:13,296 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:13,296 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:13,296 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:13,296 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:13,296 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:13,296 - test4.py --> line:36 - INFO - ================= @ 1 ====================
+2017-01-06 13:45:13,296 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-13,number:1
+2017-01-06 13:45:14,310 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:14,310 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:14,310 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:14,310 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:14,310 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:14,310 - test4.py --> line:36 - INFO - ================= @ 2 ====================
+2017-01-06 13:45:14,310 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-14,number:2
+2017-01-06 13:45:15,325 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:15,325 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:15,325 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:15,325 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:15,325 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:15,325 - test4.py --> line:36 - INFO - ================= @ 3 ====================
+2017-01-06 13:45:15,325 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-15,number:3
+2017-01-06 13:45:16,339 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:16,339 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:16,339 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:16,339 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:16,339 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:16,339 - test4.py --> line:36 - INFO - ================= @ 4 ====================
+2017-01-06 13:45:16,339 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-16,number:4
+2017-01-06 13:45:17,354 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:17,354 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:17,354 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:17,354 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:17,354 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:17,354 - test4.py --> line:36 - INFO - ================= @ 5 ====================
+2017-01-06 13:45:17,354 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-17,number:5
+2017-01-06 13:45:18,354 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:18,354 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:18,354 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:18,354 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:18,354 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:18,354 - test4.py --> line:36 - INFO - ================= @ 6 ====================
+2017-01-06 13:45:18,354 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-18,number:6
+2017-01-06 13:45:19,360 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:19,360 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:19,360 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:19,360 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:19,360 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:19,360 - test4.py --> line:36 - INFO - ================= @ 7 ====================
+2017-01-06 13:45:19,360 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-19,number:7
+2017-01-06 13:45:20,360 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:20,360 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:20,360 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:20,360 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:20,360 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:20,360 - test4.py --> line:36 - INFO - ================= @ 8 ====================
+2017-01-06 13:45:20,360 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-20,number:8
+2017-01-06 13:45:21,374 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:21,374 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:21,374 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:21,374 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:21,374 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:21,374 - test4.py --> line:36 - INFO - ================= @ 9 ====================
+2017-01-06 13:45:21,374 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-21,number:9
+2017-01-06 13:45:22,389 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:22,389 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:22,389 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:22,389 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:22,389 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:22,389 - test4.py --> line:36 - INFO - ================= @ 10 ====================
+2017-01-06 13:45:22,389 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-22,number:10
+2017-01-06 13:45:23,404 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:23,404 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:23,404 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:23,404 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:23,404 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:23,404 - test4.py --> line:36 - INFO - ================= @ 11 ====================
+2017-01-06 13:45:23,404 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-23,number:11
+2017-01-06 13:45:24,405 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:24,405 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:24,405 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:24,405 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:24,405 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:24,405 - test4.py --> line:36 - INFO - ================= @ 12 ====================
+2017-01-06 13:45:24,405 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-24,number:12
+2017-01-06 13:45:25,419 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:25,419 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:25,419 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:25,419 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:25,419 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:25,419 - test4.py --> line:36 - INFO - ================= @ 13 ====================
+2017-01-06 13:45:25,419 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-25,number:13
+2017-01-06 13:45:26,433 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:26,433 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:26,433 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:26,433 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:26,433 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:26,433 - test4.py --> line:36 - INFO - ================= @ 14 ====================
+2017-01-06 13:45:26,433 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-26,number:14
+2017-01-06 13:45:27,447 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:27,447 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:27,447 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:27,447 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:27,447 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:27,447 - test4.py --> line:36 - INFO - ================= @ 15 ====================
+2017-01-06 13:45:27,447 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-27,number:15
+2017-01-06 13:45:28,462 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:28,462 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:28,462 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:28,462 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:28,462 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:28,462 - test4.py --> line:36 - INFO - ================= @ 16 ====================
+2017-01-06 13:45:28,462 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-28,number:16
+2017-01-06 13:45:29,476 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:29,476 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:29,476 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:29,476 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:29,476 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:29,476 - test4.py --> line:36 - INFO - ================= @ 17 ====================
+2017-01-06 13:45:29,476 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-29,number:17
+2017-01-06 13:45:30,491 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:30,491 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:30,491 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:30,491 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:30,491 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:30,491 - test4.py --> line:36 - INFO - ================= @ 18 ====================
+2017-01-06 13:45:30,491 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-30,number:18
+2017-01-06 13:45:31,505 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:31,505 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:31,505 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:31,505 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:31,505 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:31,505 - test4.py --> line:36 - INFO - ================= @ 19 ====================
+2017-01-06 13:45:31,505 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-31,number:19
+2017-01-06 13:45:32,519 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:32,519 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:32,519 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:32,519 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:32,519 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:32,519 - test4.py --> line:36 - INFO - ================= @ 20 ====================
+2017-01-06 13:45:32,519 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-32,number:20
+2017-01-06 13:45:33,534 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:33,534 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:33,534 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:33,534 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:33,534 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:33,534 - test4.py --> line:36 - INFO - ================= @ 21 ====================
+2017-01-06 13:45:33,534 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-33,number:21
+2017-01-06 13:45:34,534 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:34,534 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:34,534 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:34,534 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:34,534 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:34,534 - test4.py --> line:36 - INFO - ================= @ 22 ====================
+2017-01-06 13:45:34,534 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-34,number:22
+2017-01-06 13:45:35,548 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:35,548 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:35,548 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:35,548 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:35,548 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:35,548 - test4.py --> line:36 - INFO - ================= @ 23 ====================
+2017-01-06 13:45:35,548 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-35,number:23
+2017-01-06 13:45:36,548 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:36,548 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:36,548 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:36,548 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:36,548 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:36,548 - test4.py --> line:36 - INFO - ================= @ 24 ====================
+2017-01-06 13:45:36,548 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-36,number:24
+2017-01-06 13:45:37,562 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:37,562 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:37,562 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:37,562 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:37,562 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:37,562 - test4.py --> line:36 - INFO - ================= @ 25 ====================
+2017-01-06 13:45:37,562 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-37,number:25
+2017-01-06 13:45:38,576 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:38,576 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:38,576 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:38,576 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:38,576 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:38,576 - test4.py --> line:36 - INFO - ================= @ 26 ====================
+2017-01-06 13:45:38,576 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-38,number:26
+2017-01-06 13:45:39,577 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:39,577 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:39,577 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:39,577 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:39,577 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:39,577 - test4.py --> line:36 - INFO - ================= @ 27 ====================
+2017-01-06 13:45:39,577 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-39,number:27
+2017-01-06 13:45:40,591 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:40,591 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:40,591 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:40,591 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:40,591 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:40,591 - test4.py --> line:36 - INFO - ================= @ 28 ====================
+2017-01-06 13:45:40,591 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-40,number:28
+2017-01-06 13:45:41,605 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:41,605 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:41,605 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:41,605 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:41,605 - test4.py --> line:42 - CRITICAL - critical
+2017-01-06 13:45:41,605 - test4.py --> line:36 - INFO - ================= @ 29 ====================
+2017-01-06 13:45:41,605 - test4.py --> line:38 - INFO - time is :2017-01-06_13-45-41,number:29
+2017-01-06 13:45:42,616 - test4.py --> line:42 - DEBUG - debug
+2017-01-06 13:45:42,616 - test4.py --> line:42 - INFO - info
+2017-01-06 13:45:42,616 - test4.py --> line:42 - WARNING - warning
+2017-01-06 13:45:42,616 - test4.py --> line:42 - ERROR - error
+2017-01-06 13:45:42,616 - test4.py --> line:42 - CRITICAL - critical

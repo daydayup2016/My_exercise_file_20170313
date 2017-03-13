@@ -1,0 +1,12 @@
+INFO:root:n = 1
+DEBUG:root:this is a debug
+INFO:root:this is a info
+WARNING:root:this is a warning
+ERROR:root:this is a error 
+CRITICAL:root:this is a critical
+INFO:root:n = 1
+DEBUG:root:this is a debug
+INFO:root:this is a info
+WARNING:root:this is a warning
+ERROR:root:this is a error 
+CRITICAL:root:this is a critical

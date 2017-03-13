@@ -1,0 +1,44 @@
+# _*_ coding:utf-8 _*_
+
+
+
+class student():
+    
+    def __init__(self,name,score):
+        self.name = name
+        self.score = score
+        self.__name = name
+        self.__score = score
+        
+
+    def myprint(self):
+        print('%s: %s:' %(self.name,self.score))
+
+    def myprint_s(self):
+        print('%s: %s:' %(self.__name,self.__score))
+
+    def getName(self):
+        return self.__name
+    
+    def getScore(self):
+        return self.__score
+    
+    def setName(self,name):
+        self.__name = name
+        
+    def setScore(self,score):
+        self.score = score
+
+
+if __name__ == '__main__':
+    john = student('cc',80)
+    print(john.name,john.score)
+    # print(john.__name,john.__score)
+    john.myprint_s()
+    print(john.getName())
+    print(john.getScore())
+    john.setName('pp')
+    john.setScore(120)
+    john.myprint_s()
+    
+

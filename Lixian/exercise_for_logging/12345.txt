@@ -1,0 +1,2 @@
+2017-01-05 21:54:54,285 - test1.py-->line:6 - DEBUG - this is 1 debug
+2017-01-05 21:54:57,297 - test2.py-->line:3 - WARNING - this is 2 warning
